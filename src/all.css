@@ -1,0 +1,17 @@
+body {
+    background: #eceff1 ;
+}
+#root {
+    max-width: 1200px;
+    margin:  0 auto;
+}
+.thumb {
+    float: left;
+    margin-right: 5px;
+}
+.collection h5 {
+    color:#FFAB40;
+}
+.collection p {
+    color: #fff;
+}
